@@ -17,8 +17,6 @@
                          &nbsp; &nbsp; * [linkedIn-@mahmoudmiehob](https://www.linkedin.com/in/mahmoud-miehob-937064187) <br>
 ✔  Know about my experiences : https://www.linkedin.com/in/mahmoud-miehob-937064187 <br>
  
-
-<img padding="20px" align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ```js
