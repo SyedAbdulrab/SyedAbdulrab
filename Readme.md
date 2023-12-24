@@ -134,6 +134,12 @@ class Skills extends SoftwareDeveloper {
 
 <p align="left">
     <a target="_blank" rel="noopener" href="https://github.com/SyedAbdulrab"><img src="https://avatars.githubusercontent.com/SyedAbdulrab?s=96" width="96px" height="96px" /></a>
+    <a target="_blank" rel="noopener" href="https://github.com/tayyibgondal"><img src="https://avatars.githubusercontent.com/tayyibgondal?s=96" width="96px" height="96px" /></a>
+    <a target="_blank" rel="noopener" href="https://github.com/mfarooq19"><img src="https://avatars.githubusercontent.com/mfarooq19?s=96" width="96px" height="96px" /></a>
+    <a target="_blank" rel="noopener" href="https://github.com/a-ayesh"><img src="https://avatars.githubusercontent.com/a-ayesh?s=96" width="96px" height="96px" /></a>
+    <a target="_blank" rel="noopener" href="https://github.com/Affan-Rehman"><img src="https://avatars.githubusercontent.com/Affan-Rehman?s=96" width="96px" height="96px" /></a>
+    <a target="_blank" rel="noopener" href="https://github.com/BasharSiddiqui"><img src="https://avatars.githubusercontent.com/BasharSiddiqui?s=96" width="96px" height="96px" /></a>
+    <a target="_blank" rel="noopener" href="https://github.com/LaibaSh01"><img src="https://avatars.githubusercontent.com/LaibaSh01?s=96" width="96px" height="96px" /></a>
 </p>
 
-Don't see your badge? Then create an [_**issue.**_](https://github.com/SyedAbdulrab/addVisitors/issues/new?title=Add+My+Name&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else.+Wait+to+see+live+updated.)
+Don't see your badge? Then create an [_**issue.**_](https://github.com/SyedAbdulrab/addVisitors/issues/new?title=Add+My+Name&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else.+Wait+to+see+live+updated.) Or Simply Follow
