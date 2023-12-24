@@ -9,7 +9,7 @@
 
 <img align="right" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
-### Hi there! 👋
+
 
 I'm a passionate Undergraduate Software Engineer from [SEECS, NUST](https://www.nust.edu.pk/), set to graduate in 2025, Inshallah.
 
@@ -20,11 +20,8 @@ I'm a passionate Undergraduate Software Engineer from [SEECS, NUST](https://www.
 - Located in Islamabad, Pakistan 📍
 
 📫 **Connect with me:**
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- Portfolio: [Your Portfolio](https://yourportfolio.com)
-
-🌟 **Fun Fact:**
-I love exploring new technologies and building cool projects!
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/syed-abdulrab-412476225/)
+- Instagram: [Instagram](https://www.instagram.com/syedabdulrabb/)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
  
