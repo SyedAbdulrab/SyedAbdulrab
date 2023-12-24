@@ -8,15 +8,12 @@
 
 <img padding="20px" align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
->✔  I’m currently working on freelancer job  <br>
-✔  I’m currently learning Everything related with software engineering .. <br>
-✔  All of my projects are available at https://github.com/MahmoudMiehob <br>
-✔  I regularly write articles on : https://www.facebook.com/profile.php?id=100010194910703 <br>
-✔  Ask me about php,laravel framework and all about learning IT in albaath university <br>
-✔  How to reach me: <br> &nbsp; &nbsp; * [Facebook-@mahmoudmiehob](https://www.facebook.com/profile.php?id=100010194910703) <br>
-                         &nbsp; &nbsp; * [Email-@mahmoudmiehob](mahmoudmiehob@gmail.com) <br>
-                         &nbsp; &nbsp; * [linkedIn-@mahmoudmiehob](https://www.linkedin.com/in/mahmoud-miehob-937064187) <br>
-✔  Know about my experiences : https://www.linkedin.com/in/mahmoud-miehob-937064187 <br>
+>✔  I’m an Undergraduate Software Engineer  <br>
+✔  Will Graduate in 2025 from SEECS, NUST (Inshallah) .. <br>
+✔  MERN Stack Web Developer <br>
+✔  Flutter Application Developer <br>
+✔  Guitar (very bad at it) <br>
+✔  Islamabad, Pakistan 📍
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
