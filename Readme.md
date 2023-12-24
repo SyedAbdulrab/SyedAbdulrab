@@ -149,7 +149,9 @@ class Skills extends SoftwareDeveloper {
 
 
 
-<h3>Don't see your badge?  <img src="https://media.giphy.com/media/xUPGcpMkPDfVUbZg52/giphy.gif" width="30px">**</h3>
+<h3>
+ Don't see your badge?  <img src="https://media.giphy.com/media/xUPGcpMkPDfVUbZg52/giphy.gif" width="60px">
+</h3>
 
 Create an [_**issue**_](https://github.com/SyedAbdulrab/addVisitors/issues/new?title=Add+My+Name&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else.+Wait+to+see+live+updated.) and get featured!
 
