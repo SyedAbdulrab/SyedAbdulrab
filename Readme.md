@@ -81,7 +81,8 @@ class Skills extends SoftwareDeveloper {
 <h3 align="center">
  Client Reviews 
 </h3>
-![image](https://github.com/SyedAbdulrab/SyedAbdulrab/assets/99114574/9b27a4d1-baa7-4443-b53d-62e21fce8523)
+
+![image](https://github.com/SyedAbdulrab/SyedAbdulrab/assets/99114574/fd2defa2-3af5-48b6-af76-bb02046fb078)
 
 ![image](https://github.com/SyedAbdulrab/SyedAbdulrab/assets/99114574/604bce5e-4974-4953-8809-0d66e575f214)
 
