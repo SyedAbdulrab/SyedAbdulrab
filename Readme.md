@@ -13,7 +13,7 @@
 
 I'm an Undergraduate Software Engineer from [SEECS, NUST](https://www.nust.edu.pk/), set to graduate in 2025, Inshallah.
 
-🚀 **About Me:**
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; **About Me:**
 - 👩‍💻 **MERN** Stack Web Developer
 - 💻 **Flutter** Application Developer
 - 💪 Avg Pakistani **Gym Boi**
