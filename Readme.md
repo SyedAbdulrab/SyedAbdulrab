@@ -4,8 +4,6 @@
 
 <img align="right" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
-I'm an Undergraduate Software Engineer from [SEECS, NUST](https://www.nust.edu.pk/), set to graduate in 2025, Inshallah.
-
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About Me:
 - 👨‍🎓 Undergraduate **Software Engineer**
 - 👩‍💻 **MERN** Stack Web Developer
