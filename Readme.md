@@ -60,6 +60,9 @@ class Skills extends SoftwareDeveloper {
   <img margin="40px" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/VAChgNjYZcPb8RhyVn/giphy.gif" />
   <img margin="40px" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/4LlmVhHnMvEE0P5KXD/giphy.gif" />
   
+  <img margin="40px" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/Z98dwMDjNWaHXNIcGh/giphy.gif" />
+  <img margin="40px" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/oBdmZbbQebxvtxsT9P/giphy.gif" />
+  
   <img margin="40px" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/EMpPEre2PqFy8GkOZE/giphy.gif" />
   <img margin="40px" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/516GW6FHBs0rC/giphy.gif" />
   
