@@ -140,6 +140,14 @@ class Skills extends SoftwareDeveloper {
     <a target="_blank" rel="noopener" href="https://github.com/Affan-Rehman"><img src="https://avatars.githubusercontent.com/Affan-Rehman?s=96" width="96px" height="96px" /></a>
     <a target="_blank" rel="noopener" href="https://github.com/BasharSiddiqui"><img src="https://avatars.githubusercontent.com/BasharSiddiqui?s=96" width="96px" height="96px" /></a>
     <a target="_blank" rel="noopener" href="https://github.com/LaibaSh01"><img src="https://avatars.githubusercontent.com/LaibaSh01?s=96" width="96px" height="96px" /></a>
+    <a target="_blank" rel="noopener" href="https://github.com/Ajmal121212"><img src="https://avatars.githubusercontent.com/Ajmal121212?s=96" width="96px" height="96px" /></a>
 </p>
 
-Don't see your badge? Then create an [_**issue.**_](https://github.com/SyedAbdulrab/addVisitors/issues/new?title=Add+My+Name&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else.+Wait+to+see+live+updated.) Or Simply Follow
+**Don't see your badge?**
+
+Create an [_**issue**_](https://github.com/SyedAbdulrab/addVisitors/issues/new?title=Add+My+Name&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else.+Wait+to+see+live+updated.) and get featured!
+
+Or, simply hit the **Follow** button:
+
+[![Follow](https://img.shields.io/github/followers/SyedAbdulrab?label=Follow&style=social)](https://github.com/SyedAbdulrab)
+
