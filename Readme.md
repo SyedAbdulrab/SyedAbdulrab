@@ -129,7 +129,6 @@ class Skills extends SoftwareDeveloper {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
@@ -148,7 +147,9 @@ class Skills extends SoftwareDeveloper {
     <a target="_blank" rel="noopener" href="https://github.com/Ajmal121212"><img src="https://avatars.githubusercontent.com/Ajmal121212?s=96" width="96px" height="96px" /></a>
 </p>
 
-**Don't see your badge?**
+
+
+<h3>Don't see your badge?  <img src="https://media.giphy.com/media/xUPGcpMkPDfVUbZg52/giphy.gif" width="30px">**</h3>
 
 Create an [_**issue**_](https://github.com/SyedAbdulrab/addVisitors/issues/new?title=Add+My+Name&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else.+Wait+to+see+live+updated.) and get featured!
 
