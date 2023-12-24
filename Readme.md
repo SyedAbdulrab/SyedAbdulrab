@@ -17,6 +17,7 @@ I'm an Undergraduate Software Engineer from [SEECS, NUST](https://www.nust.edu.p
 - 👩‍💻 **MERN** Stack Web Developer
 - 💻 **Flutter** Application Developer
 - 💪 Avg Pakistani **Gym Boi**
+- 📚 Avid **Reader**
 - 🎸 **Guitar** (Very bad at it)
 - 📍  Located in Islamabad, **Pakistan** 
 
