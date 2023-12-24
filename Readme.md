@@ -133,6 +133,14 @@ class Skills extends SoftwareDeveloper {
 
 
 <h2 align="center">
+ <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Github Stats &nbsp;<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+</h2>
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=SyedAbdulrab)](https://github.com/LordDashMe/github-contribution-stats/)
+
+<img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Certified Cool People &nbsp;<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 </h2>
 
