@@ -11,7 +11,7 @@
 
 
 
-I'm a an Undergraduate Software Engineer from [SEECS, NUST](https://www.nust.edu.pk/), set to graduate in 2025, Inshallah.
+I'm an Undergraduate Software Engineer from [SEECS, NUST](https://www.nust.edu.pk/), set to graduate in 2025, Inshallah.
 
 🚀 **About Me:**
 - 👩‍💻 **MERN** Stack Web Developer
