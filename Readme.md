@@ -78,6 +78,15 @@ class Skills extends SoftwareDeveloper {
        alt="snake" /></a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">
+ Client Reviews 
+</h3>
+![image](https://github.com/SyedAbdulrab/SyedAbdulrab/assets/99114574/8209f0f9-75e3-4bce-960a-cf26c96d1b8e)
+
+![image](https://github.com/SyedAbdulrab/SyedAbdulrab/assets/99114574/604bce5e-4974-4953-8809-0d66e575f214)
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <h3 align="center">
@@ -104,7 +113,7 @@ class Skills extends SoftwareDeveloper {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# My favorite Game of all time
+# Fav Game? say less.
 
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
