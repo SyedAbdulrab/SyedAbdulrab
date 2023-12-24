@@ -87,9 +87,9 @@ class Skills extends SoftwareDeveloper {
        alt="snake" /></a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">
- Client Reviews 
-</h3>
+<h2 align="center">
+ <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About Me:
+</h2>
 
 <div align="center">
   
