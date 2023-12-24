@@ -23,6 +23,8 @@ class Skills extends SoftwareDeveloper {
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+----
+[![Abdulrabs GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedAbdulrab)](https://github.com/anuraghazra/github-readme-stats)
 
 ----
 # My favorite Game of all time
