@@ -137,7 +137,8 @@ class Skills extends SoftwareDeveloper {
 </h2>
 
 <div align="center">
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=SyedAbdulrab)](https://github.com/LordDashMe/github-contribution-stats/)
+ 
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=SyedAbdulrab)](https://github.com/LordDashMe/github-contribution-stats/)
  
 </div>
 <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
