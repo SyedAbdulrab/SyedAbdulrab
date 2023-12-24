@@ -14,14 +14,16 @@
 I'm a an Undergraduate Software Engineer from [SEECS, NUST](https://www.nust.edu.pk/), set to graduate in 2025, Inshallah.
 
 🚀 **About Me:**
-- MERN Stack Web Developer
-- Flutter Application Developer
-- Guitar enthusiast (even if I'm not very good at it)
-- Located in Islamabad, Pakistan 📍
+- 👩‍💻 **MERN** Stack Web Developer
+- 💻 **Flutter** Application Developer
+- 💪 Avg Pakistani **Gym Boi**
+- 🎸 **Guitar** (Very bad at it)
+- 📍  Located in Islamabad, **Pakistan** 
 
 📫 **Connect with me:**
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/syed-abdulrab-412476225/)
-- Instagram: [Instagram](https://www.instagram.com/syedabdulrabb/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syed-abdulrab-412476225/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/syedabdulrabb/)
+
 
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
