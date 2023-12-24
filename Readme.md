@@ -5,7 +5,6 @@
 </h1>
 
 
-<img padding="20px" align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 >✔  I’m currently working on freelancer job  <br>
 ✔  I’m currently learning Everything related with software engineering .. <br>
