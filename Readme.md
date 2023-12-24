@@ -151,11 +151,12 @@ class Skills extends SoftwareDeveloper {
 
 <h3>
  Don't see your badge?  <img src="https://media.giphy.com/media/xUPGcpMkPDfVUbZg52/giphy.gif" width="60px">
-</h3>
-
-Create an [_**issue**_](https://github.com/SyedAbdulrab/addVisitors/issues/new?title=Add+My+Name&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else.+Wait+to+see+live+updated.) and get featured!
+ Create an [_**issue**_](https://github.com/SyedAbdulrab/addVisitors/issues/new?title=Add+My+Name&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else.+Wait+to+see+live+updated.) and get featured!  <img src="https://media.giphy.com/media/6d7r0dwU2J91guI7x2/giphy.gif" width="60px">
 
 Or, simply hit the **Follow** button:
+</h3>
+
+
 
 [![Follow](https://img.shields.io/github/followers/SyedAbdulrab?label=Follow&style=social)](https://github.com/SyedAbdulrab)
 
