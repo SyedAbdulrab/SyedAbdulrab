@@ -7,14 +7,26 @@
 
 
 
-<img padding="20px" align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+<img align="right" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
->✔  I’m an Undergraduate Software Engineer  <br>
-✔  Will Graduate in 2025 from SEECS, NUST (Inshallah) .. <br>
-✔  MERN Stack Web Developer <br>
-✔  Flutter Application Developer <br>
-✔  Guitar (very bad at it) <br>
-✔  Islamabad, Pakistan 📍
+### Hi there! 👋
+
+I'm a passionate Undergraduate Software Engineer from [SEECS, NUST](https://www.nust.edu.pk/), set to graduate in 2025, Inshallah.
+
+🚀 **About Me:**
+- MERN Stack Web Developer
+- Flutter Application Developer
+- Guitar enthusiast (even if I'm not very good at it)
+- Located in Islamabad, Pakistan 📍
+
+📫 **Connect with me:**
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
+- Portfolio: [Your Portfolio](https://yourportfolio.com)
+
+🌟 **Fun Fact:**
+I love exploring new technologies and building cool projects!
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
