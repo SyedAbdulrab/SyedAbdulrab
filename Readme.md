@@ -1,4 +1,4 @@
-# Syed Abdulrab <img margin-left="20px" align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+# Syed Abdulrab <img padding="20px" align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 ```js
 import SoftwareDeveloper from 'Pakistan, Islamabad';
 
