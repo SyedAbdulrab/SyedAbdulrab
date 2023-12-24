@@ -5,8 +5,7 @@
 </h1>
 
 
-<img padding="20px" align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
-
+<img padding="20px" align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/l3q2tzon8OCC7BqmY/giphy.gif" />
 >✔  I’m currently working on freelancer job  <br>
 ✔  I’m currently learning Everything related with software engineering .. <br>
 ✔  All of my projects are available at https://github.com/MahmoudMiehob <br>
