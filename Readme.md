@@ -20,7 +20,7 @@ I'm a an Undergraduate Software Engineer from [SEECS, NUST](https://www.nust.edu
 - 🎸 **Guitar** (Very bad at it)
 - 📍  Located in Islamabad, **Pakistan** 
 
-📫 **Connect with me:**
+📫 **Connect with me:** <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syed-abdulrab-412476225/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/syedabdulrabb/)
 
