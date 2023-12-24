@@ -50,18 +50,20 @@ class Skills extends SoftwareDeveloper {
 
 
 <h3 align="center">
- Moods  👋
+ Moods  
 </h3>
 
-<p >
-  <img margin="20px" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/l3q2tzon8OCC7BqmY/giphy.gif" />
-  <img margin="20px" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/ojIBhJZmpYpwY1qIUl/giphy.gif" />
+<p align="center">
+  <img margin="40px" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/l3q2tzon8OCC7BqmY/giphy.gif" />
+  <img margin="40px" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/ojIBhJZmpYpwY1qIUl/giphy.gif" />
   
-  <img margin="20px" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/VAChgNjYZcPb8RhyVn/giphy.gif" />
-  <img margin="20px" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/EMpPEre2PqFy8GkOZE/giphy.gif" />
+  <img margin="40px" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/VAChgNjYZcPb8RhyVn/giphy.gif" />
+  <img margin="40px" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/EMpPEre2PqFy8GkOZE/giphy.gif" />
   
-  <img margin="20px" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/VAChgNjYZcPb8RhyVn/giphy.gif" />
-  <img margin="20px" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/EMpPEre2PqFy8GkOZE/giphy.gif" />
+  <img margin="40px" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/VAChgNjYZcPb8RhyVn/giphy.gif" />
+  <img margin="40px" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/EMpPEre2PqFy8GkOZE/giphy.gif" />
+  
+  
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
