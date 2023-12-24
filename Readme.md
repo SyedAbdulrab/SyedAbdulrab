@@ -129,8 +129,13 @@ class Skills extends SoftwareDeveloper {
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## _**Visitors**_
+
+
+<h2 align="center">
+ <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Certified Cool People &nbsp;<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+</h2>
 
 <p align="left">
     <a target="_blank" rel="noopener" href="https://github.com/SyedAbdulrab"><img src="https://avatars.githubusercontent.com/SyedAbdulrab?s=96" width="96px" height="96px" /></a>
@@ -150,4 +155,7 @@ Create an [_**issue**_](https://github.com/SyedAbdulrab/addVisitors/issues/new?t
 Or, simply hit the **Follow** button:
 
 [![Follow](https://img.shields.io/github/followers/SyedAbdulrab?label=Follow&style=social)](https://github.com/SyedAbdulrab)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
