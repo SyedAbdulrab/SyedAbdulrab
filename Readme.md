@@ -97,9 +97,9 @@ class Skills extends SoftwareDeveloper {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h3 align="center">
- Moods  
-</h3>
+<h2 align="center">
+ <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Moods &nbsp;<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+</h2>
 
 <p align="center">
   <img margin="40px" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/l3q2tzon8OCC7BqmY/giphy.gif" />
