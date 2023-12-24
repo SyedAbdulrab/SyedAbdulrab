@@ -41,11 +41,6 @@ class Skills extends SoftwareDeveloper {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
 <div align="center">
   <a href="https://github.com/SyedAbdulrab">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -58,11 +53,13 @@ class Skills extends SoftwareDeveloper {
  Moods  👋
 </h3>
 
-<img margin="20px"  height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/l3q2tzon8OCC7BqmY/giphy.gif" />
-<img margin="20px"  height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/ojIBhJZmpYpwY1qIUl/giphy.gif" />
-<img margin="20px" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/Wy1TtbGehoNKeAdpTk/giphy.gif" />
-<img margin="20px"  height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/HLIsuOVZewzoNQz0yB/giphy.gif" />
-<img margin="20px" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/EMpPEre2PqFy8GkOZE/giphy.gif" />
+<p align="center">
+  <img margin="20px" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/l3q2tzon8OCC7BqmY/giphy.gif" />
+  <img margin="20px" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/ojIBhJZmpYpwY1qIUl/giphy.gif" />
+  <img margin="20px" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/Wy1TtbGehoNKeAdpTk/giphy.gif" />
+  <img margin="20px" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/HLIsuOVZewzoNQz0yB/giphy.gif" />
+  <img margin="20px" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/EMpPEre2PqFy8GkOZE/giphy.gif" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
