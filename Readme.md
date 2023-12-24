@@ -11,7 +11,7 @@
 
 
 
-I'm a passionate Undergraduate Software Engineer from [SEECS, NUST](https://www.nust.edu.pk/), set to graduate in 2025, Inshallah.
+I'm a an Undergraduate Software Engineer from [SEECS, NUST](https://www.nust.edu.pk/), set to graduate in 2025, Inshallah.
 
 🚀 **About Me:**
 - MERN Stack Web Developer
@@ -23,7 +23,6 @@ I'm a passionate Undergraduate Software Engineer from [SEECS, NUST](https://www.
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/syed-abdulrab-412476225/)
 - Instagram: [Instagram](https://www.instagram.com/syedabdulrabb/)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
