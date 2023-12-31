@@ -157,6 +157,8 @@ class Skills extends SoftwareDeveloper {
     <a target="_blank" rel="noopener" href="https://github.com/LaibaSh01"><img src="https://avatars.githubusercontent.com/LaibaSh01?s=96" width="96px" height="96px" /></a>
     <a target="_blank" rel="noopener" href="https://github.com/Ajmal121212"><img src="https://avatars.githubusercontent.com/Ajmal121212?s=96" width="96px" height="96px" /></a>
     <a target="_blank" rel="noopener" href="https://github.com/AreebAhmad-02"><img src="https://avatars.githubusercontent.com/AreebAhmad-02?s=96" width="96px" height="96px" /></a>
+    <a target="_blank" rel="noopener" href="https://github.com/siddiquifaras"><img src="https://avatars.githubusercontent.com/siddiquifaras?s=96" width="96px" height="96px" /></a>
+    <a target="_blank" rel="noopener" href="https://github.com/JamalKhan24"><img src="https://avatars.githubusercontent.com/JamalKhan24?s=96" width="96px" height="96px" /></a>
 </p>
 
 
