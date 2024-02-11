@@ -148,6 +148,7 @@ class Skills extends SoftwareDeveloper {
 </h2>
 
 <p align="left">
+    <a target="_blank" rel="noopener" href="https://github.com/am-i-abdullah"><img src="https://avatars.githubusercontent.com/am-i-abdullah?s=96" width="96px" height="96px" /></a>
     <a target="_blank" rel="noopener" href="https://github.com/SyedAbdulrab"><img src="https://avatars.githubusercontent.com/SyedAbdulrab?s=96" width="96px" height="96px" /></a>
     <a target="_blank" rel="noopener" href="https://github.com/tayyibgondal"><img src="https://avatars.githubusercontent.com/tayyibgondal?s=96" width="96px" height="96px" /></a>
     <a target="_blank" rel="noopener" href="https://github.com/mfarooq19"><img src="https://avatars.githubusercontent.com/mfarooq19?s=96" width="96px" height="96px" /></a>
@@ -161,6 +162,8 @@ class Skills extends SoftwareDeveloper {
     <a target="_blank" rel="noopener" href="https://github.com/JamalKhan24"><img src="https://avatars.githubusercontent.com/JamalKhan24?s=96" width="96px" height="96px" /></a>
     <a target="_blank" rel="noopener" href="https://github.com/shawaizhaider"><img src="https://avatars.githubusercontent.com/shawaizhaider?s=96" width="96px" height="96px" /></a>
     <a target="_blank" rel="noopener" href="https://github.com/tahamukhtar20"><img src="https://avatars.githubusercontent.com/tahamukhtar20?s=96" width="96px" height="96px" /></a>
+    <a target="_blank" rel="noopener" href="https://github.com/Me-AU"><img src="https://avatars.githubusercontent.com/Me-AU?s=96" width="96px" height="96px" /></a>
+ Me-AU
 </p>
 
 
