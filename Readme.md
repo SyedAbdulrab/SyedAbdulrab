@@ -8,7 +8,6 @@
 - 👨‍🎓 Undergraduate **Software Engineer**
 - 👩‍💻 **MERN** Stack Web Developer
 - 💻 **Flutter** Application Developer
-- 💪 Avg Pakistani **Gym Boi**
 - 📚 Avid **Reader**
 - 🎸 **Guitar** (Very bad at it)
 - 📍  Located in Islamabad, **Pakistan** 
