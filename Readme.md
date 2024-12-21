@@ -12,9 +12,15 @@
 - 🎸 **Guitar** (Very bad at it)
 - 📍  Located in Islamabad, **Pakistan** 
 
+
+
 📫 **Connect** <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syed-abdulrab-412476225/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/syedabdulrabb/)
+
+<br>🔥 **Gitlab** <br>
+- [_**syed.abdulrab.cowlar**_](https://gitlab.com/syed.abdulrab.cowlar)
+<img width="879" alt="Screenshot 2024-12-21 at 7 21 18 PM" src="https://github.com/user-attachments/assets/b5a289a4-eef4-4b0e-8480-5887f52da4b3" />
 
 
  
