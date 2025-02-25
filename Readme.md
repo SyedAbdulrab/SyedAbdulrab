@@ -7,6 +7,8 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About Me:
 - 👨‍🎓 Undergraduate **Software Engineer**
 - 👩‍💻 **MERN** Stack Web Developer
+- 👩‍💻 **NESTjs & Prisma** Backend Engineer
+- 👩‍💻 **Vuejs** Frontend Engineer
 - 💻 **Flutter** Application Developer
 - 📚 Avid **Reader**
 - 🎸 **Guitar** (Very bad at it)
